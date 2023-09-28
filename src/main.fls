@@ -1,8 +1,8 @@
-PWD c:/Users/Will/iCloudDrive/HNR497_ICLOUD/literature_review/src
+PWD c:/Users/Will/Desktop/literature_review/src
 INPUT c:/texlive/2023/texmf.cnf
 INPUT c:/texlive/2023/texmf-dist/web2c/texmf.cnf
 INPUT c:/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT c:/Users/Will/iCloudDrive/HNR497_ICLOUD/literature_review/src/main.tex
+INPUT c:/Users/Will/Desktop/literature_review/src/main.tex
 OUTPUT main.log
 INPUT c:/texlive/2023/texmf-dist/tex/latex/apa6/apa6.cls
 INPUT c:/texlive/2023/texmf-dist/tex/latex/apa6/apa6.cls
@@ -110,7 +110,9 @@ INPUT c:/texlive/2023/texmf-dist/fonts/tfm/public/lm/ec-lmbx12.tfm
 INPUT ./abstract.tex
 INPUT ./abstract.tex
 INPUT abstract.tex
-INPUT c:/texlive/2023/texmf-dist/fonts/tfm/public/lm/ec-lmri12.tfm
+INPUT ./introduction.tex
+INPUT ./introduction.tex
+INPUT introduction.tex
 INPUT main.aux
+INPUT c:/texlive/2023/texmf-dist/fonts/type1/public/lm/lmbx12.pfb
 INPUT c:/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr12.pfb
-INPUT c:/texlive/2023/texmf-dist/fonts/type1/public/lm/lmri12.pfb
