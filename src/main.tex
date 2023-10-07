@@ -1,13 +1,17 @@
-\documentclass[man,12pt]{apa6}
+\documentclass[man,12pt, twocolumn]{apa6}
 
 \usepackage[utf8]{inputenc}
 \usepackage[english]{babel}
+\usepackage[style=authoryear,backend=bibtex]{biblatex}
+\usepackage{csquotes}
+\addbibresource{references.bib}
 
 \title{Unpacking Student Perceptions: A Review of Research on Ratemyprofessor.com}
 \shorttitle{Ratemyprofessor: A Research Review}
 \author{William Alger}
 \affiliation{Northern Kentucky University}
 \note{Special Note (Optional)}
+
 
 \abstract{
     \input{abstract.tex}
@@ -18,14 +22,27 @@
 
 \section{Introduction}
 \input{introduction.tex}
+\subsection{Overview of Ratemyprofessor.com}
+Rate my professor is a website that has been around since 1999. For the longest time,
+it has been the leading public platform for students to anonymously leave reviews about 
+their college professors. Many competitors have come and gone while Ratemyprofessor.com
+has stood the test of time. Despite it's popularity, professors, researchers, and students
+alike have often debated on its true value. This is in part due to the fact that the site 
+does not require a reviewer to verify that they took the class, nor that they are even a 
+college student. Despite its limitations, the vast amount of publicly available data - 
+with a little over two million professor profiles - has drawn interest among researchers seeking to
+understand student perceptions in academia. This contrasts with formal university evaluations, which are
+frequently diffucult to obtain and inaccessible for research purposes.
+
+
+\section{Review of literature}
+\subsection{Effect of Ratemyprofessor on Students}
+This is a test citation \textcite*{lewandowski_just_2012} 
 
 
 
 
 
 
-
-
-
-
+\printbibliography
 \end{document}

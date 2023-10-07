@@ -1,0 +1,80 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{nyt/global//global/global}
+  \entry{lewandowski_just_2012}{article}{}
+    \name{author}{3}{}{%
+      {{hash=LGW}{%
+         family={Lewandowski},
+         familyi={L\bibinitperiod},
+         given={Gary\bibnamedelima W.},
+         giveni={G\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+      {{hash=HE}{%
+         family={Higgins},
+         familyi={H\bibinitperiod},
+         given={Emma},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=NNN}{%
+         family={Nardone},
+         familyi={N\bibinitperiod},
+         given={Natalie\bibnamedelima N.},
+         giveni={N\bibinitperiod\bibinitdelim N\bibinitperiod},
+      }}%
+    }
+    \keyw{experiment, influences on evaluation, teaching evaluation, technology}
+    \strng{namehash}{LGWHENNN1}
+    \strng{fullhash}{LGWHENNN1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{shorttitle}
+    \field{labelyear}{2012}
+    \field{labeldatesource}{}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \field{abstract}{%
+    This set of experiments assessed the influence of {RateMyProfessors}.com profiles, and the perceived credibility of those profiles, on students’ evaluations of professors and retention of material. In Study 1, 302 undergraduates were randomly assigned to read positive or negative {RateMyProfessors}.com profiles with comments that focused on superficial or legitimate professor features. Participants then watched a lecture clip, provided professor ratings and completed a quiz on the lecture. In Study 2, 81 students who were randomly assigned to read the same {RateMyProfessors}.com profiles before an actual class provided credibility ratings of the information, listened to a lecture and provided professor ratings at the end. Across both experiments, one in a laboratory setting, and one in an authentic undergraduate lecture, participants gave more favourable professor ratings after reading positive evaluations from {RateMyProfessors}.com information. These findings establish the causal link between professor information and subsequent evaluations.%
+    }
+    \verb{doi}
+    \verb 10.1080/02602938.2011.594497
+    \endverb
+    \field{issn}{0260-2938}
+    \field{note}{Publisher: Routledge \_eprint: https://doi.org/10.1080/02602938.2011.594497}
+    \field{number}{8}
+    \field{pages}{987\bibrangedash 1002}
+    \field{shorttitle}{Just a harmless website?}
+    \field{title}{Just a harmless website?: an experimental examination of {RateMyProfessors}.com’s effect on student evaluations}
+    \verb{url}
+    \verb https://doi.org/10.1080/02602938.2011.594497
+    \endverb
+    \field{volume}{37}
+    \verb{file}
+    \verb lewandowski2012.pdf:C\:\\Users\\Will\\OneDrive - Northern Kentucky Un
+    \verb iversity\\NKU\\G. Fall 2023\\HNR 497\\papers\\lewandowski2012.pdf:app
+    \verb lication/pdf
+    \endverb
+    \field{journaltitle}{Assessment \& Evaluation in Higher Education}
+    \field{day}{01}
+    \field{month}{12}
+    \field{year}{2012}
+    \field{urlday}{22}
+    \field{urlmonth}{09}
+    \field{urlyear}{2023}
+  \endentry
+\enddatalist
+\endinput
