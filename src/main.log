@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.21)  7 OCT 2023 17:16
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.21)  8 OCT 2023 12:08
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -987,14 +987,19 @@ Underfull \hbox (badness 1558) in paragraph at lines 40--41
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 40--41
-\T1/lmr/m/n/12 (+20) or neg-a-tive eval-u-a-tions sig-nif-i-cantly
+Underfull \hbox (badness 1072) in paragraph at lines 40--41
+\T1/lmr/m/n/12 (+20) by []John-son et al. ([]2014[]) who found
+ []
+
+
+Underfull \hbox (badness 1067) in paragraph at lines 40--41
+\T1/lmr/m/n/12 (+20) that course en-roll-ment was pos-i-tively
  []
 
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/lmr/m/sc/12'.
 (microtype)             Ignoring protrusion settings for this character.
-LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 49.
+LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 58.
 (c:/texlive/2023/texmf-dist/tex/latex/lm/t1lmtt.fd
 File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
@@ -1002,99 +1007,105 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `lmtt' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 49.
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 58.
  (c:/texlive/2023/texmf-dist/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 49.
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 58.
  (c:/texlive/2023/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 49.
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 58.
  (c:/texlive/2023/texmf-dist/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 49.
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 58.
  (c:/texlive/2023/texmf-dist/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 49.
+(Font)              <12> on input line 58.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 49.
+(Font)              <8> on input line 58.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 49.
-
-Underfull \hbox (badness 1552) in paragraph at lines 50--50
+(Font)              <6> on input line 58.
+ [2]
+Underfull \hbox (badness 1552) in paragraph at lines 59--59
 \T1/lmr/m/n/12 (+20) (Feb. 1, 2009). ^^P  How do we rate?
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 50--50
+Underfull \hbox (badness 10000) in paragraph at lines 59--59
 \T1/lmr/m/n/12 (+20) An eval-u-a-tion of on-line stu-dent
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 50--50
+Underfull \hbox (badness 10000) in paragraph at lines 59--59
 \T1/lmr/m/n/12 (+20) eval-u-a-tions^^Q. In: \T1/lmr/m/it/12 (+20) As-sess-ment &
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 50--50
+Underfull \hbox (badness 10000) in paragraph at lines 59--59
 \T1/lmr/m/it/12 (+20) Eval-u-a-tion in Higher Ed-u-ca-tion
  []
 
 
-Underfull \hbox (badness 2277) in paragraph at lines 50--50
+Underfull \hbox (badness 2277) in paragraph at lines 59--59
 \T1/lmr/m/n/12 (+20) 34.1. Pub-lisher: Rout-ledge _eprint:
  []
 
 
-Overfull \hbox (23.86671pt too wide) in paragraph at lines 50--50
+Overfull \hbox (23.86671pt too wide) in paragraph at lines 59--59
 \T1/lmr/m/n/12 (-20) https://doi.org/10.1080/02602930801895695,
  []
 
 
-Underfull \hbox (badness 7116) in paragraph at lines 50--50
+Underfull \hbox (badness 7116) in paragraph at lines 59--59
 \T1/lmr/m/n/12 (+20) pp. 51^^U65. \T1/lmr/m/sc/12 (+20) issn\T1/lmr/m/n/12 (+20) : 0260-2938. \T1/lmr/m/sc/12 (+20) doi\T1/lmr/m/n/12 (+20) :
  []
 
 
-Underfull \hbox (badness 1400) in paragraph at lines 50--50
+Underfull \hbox (badness 1400) in paragraph at lines 59--59
 []$\T1/lmtt/m/n/12 https : / / doi . org / 10 . 1080 /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 50--50
+Underfull \hbox (badness 10000) in paragraph at lines 59--59
 \T1/lmtt/m/n/12 02602930801895695$[] \T1/lmr/m/n/12 (+20) (vis-ited on
  []
 
-[2] [3
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 58.
+(c:/texlive/2023/texmf-dist/tex/latex/lm/ts1lmr.fd
+File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+Underfull \hbox (badness 1097) in paragraph at lines 59--59
+\T1/lmr/m/n/12 (+20) el-e-ments of Rate-MyPro-fes-sors.com\TS1/lmr/m/n/12 (+20) —
+ []
 
-] (./main.aux)
+[3{c:/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}] (./main.aux)
  ***********
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-08-29>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 9513335A57E0D1D44E12943184E63E11;720.
+(rerunfilecheck)             Checksum: 571D5ADFDD621A78A2D68A27D15EE991;804.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 33215 strings out of 474928
- 628791 string characters out of 5763562
- 1934785 words of memory out of 5000000
- 54164 multiletter control sequences out of 15000+600000
- 604769 words of font info for 118 fonts, out of 8000000 for 9000
+ 33292 strings out of 474928
+ 630762 string characters out of 5763562
+ 1935785 words of memory out of 5000000
+ 54221 multiletter control sequences out of 15000+600000
+ 605666 words of font info for 125 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  99i,11n,103p,1915b,1735s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2023/texmf-dist/fonts/type1/public/lm/lmbx12.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/lm/lmcsc10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr12.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr17.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/lm/lmri12.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/lm/lmtt12.pfb>
-Output written on main.pdf (3 pages, 164006 bytes).
+Output written on main.pdf (3 pages, 170183 bytes).
 PDF statistics:
- 102 PDF objects out of 1000 (max. 8388607)
- 84 compressed objects within 1 object stream
- 14 named destinations out of 1000 (max. 500000)
- 25133 words of extra memory for PDF output out of 29859 (max. 10000000)
+ 122 PDF objects out of 1000 (max. 8388607)
+ 102 compressed objects within 2 object streams
+ 17 named destinations out of 1000 (max. 500000)
+ 27189 words of extra memory for PDF output out of 29859 (max. 10000000)
 

@@ -209,5 +209,180 @@
     \field{urlmonth}{10}
     \field{urlyear}{2023}
   \endentry
+
+  \entry{johnson_i_2014}{article}{}
+    \name{author}{4}{}{%
+      {{hash=JJ}{%
+         family={Johnson},
+         familyi={J\bibinitperiod},
+         given={Jeremiah},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=HD}{%
+         family={Hoover},
+         familyi={H\bibinitperiod},
+         given={David},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=BJ}{%
+         family={Beck},
+         familyi={B\bibinitperiod},
+         given={Jason},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=TM}{%
+         family={Toma},
+         familyi={T\bibinitperiod},
+         given={Michael},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{JJ+1}
+    \strng{fullhash}{JJHDBJTM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{shorttitle}
+    \field{labelyear}{2014}
+    \field{labeldatesource}{}
+    \field{sortinit}{J}
+    \field{sortinithash}{J}
+    \field{abstract}{%
+    This study examines the effects of {RateMyProfessors}.com professor ratings on student decisions related to the Fall 2012 course registration period. Statistical techniques including ordinary least squares regression and survival analysis are employed to model course registration. We operate within an applied economic framework in which the supply and demand for course section seating capacity do not fully equalize due to various physical constraints as well as the existence of imperfect information. By further understanding the factors underpinning student decision making, university departmental management is better able to estimate changes in student demand. {RateMyProfessors}.com reported measures of overall quality, easiness, and attractiveness are determined to be positively related, in varying magnitude, to course enrollment. {JEL} classification numbers: I20%
+    }
+    \field{pages}{31\bibrangedash 42}
+    \field{shortjournal}{Advances in Management and Applied Economics}
+    \field{shorttitle}{I Feel Like Shooting Myself in the Face after taking this God-forsaken Class}
+    \field{title}{I Feel Like Shooting Myself in the Face after taking this God-forsaken Class: The Effects of {RateMyProfessors}.com on University Course Registration}
+    \field{volume}{4}
+    \verb{file}
+    \verb Full Text PDF:C\:\\Users\\Will\\Zotero\\storage\\Y7BRUQY2\\Johnson et
+    \verb  al. - 2014 - I Feel Like Shooting Myself in the Face after taki.pdf:
+    \verb application/pdf
+    \endverb
+    \field{journaltitle}{Advances in Management and Applied Economics}
+    \field{day}{01}
+    \field{month}{01}
+    \field{year}{2014}
+  \endentry
+
+  \entry{kowai-bell_rate_2011}{article}{}
+    \name{author}{5}{}{%
+      {{hash=KBN}{%
+         family={Kowai-Bell},
+         familyi={K\bibinithyphendelim B\bibinitperiod},
+         given={Neneh},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=GR}{%
+         family={Guadagno},
+         familyi={G\bibinitperiod},
+         given={Rosanna},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=CT}{%
+         family={Chase},
+         familyi={C\bibinitperiod},
+         given={Tannah},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=PN}{%
+         family={Preiss},
+         familyi={P\bibinitperiod},
+         given={Najean},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=HR}{%
+         family={Hensley},
+         familyi={H\bibinitperiod},
+         given={Rachel},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{KBN+1}
+    \strng{fullhash}{KBNGRCTPNHR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{shorttitle}
+    \field{labelyear}{2011}
+    \field{labeldatesource}{}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \verb{doi}
+    \verb 10.1016/j.chb.2011.04.009
+    \endverb
+    \field{pages}{1862\bibrangedash 1867}
+    \field{shortjournal}{Computers in Human Behavior}
+    \field{shorttitle}{Rate My Expectations}
+    \field{title}{Rate My Expectations: How online evaluations of professors impact students' perceived control}
+    \field{volume}{27}
+    \verb{file}
+    \verb kowai-bell2011.pdf:C\:\\Users\\Will\\OneDrive - Northern Kentucky Uni
+    \verb versity\\NKU\\G. Fall 2023\\HNR 497\\papers\\kowai-bell2011.pdf:appli
+    \verb cation/pdf
+    \endverb
+    \field{journaltitle}{Computers in Human Behavior}
+    \field{day}{01}
+    \field{month}{09}
+    \field{year}{2011}
+  \endentry
+
+  \entry{scherr_single_2013}{article}{}
+    \name{author}{3}{}{%
+      {{hash=SS}{%
+         family={Scherr},
+         familyi={S\bibinitperiod},
+         given={Sebastian},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=MP}{%
+         family={Müller},
+         familyi={M\bibinitperiod},
+         given={Philipp},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=FV}{%
+         family={Fast},
+         familyi={F\bibinitperiod},
+         given={Victoria},
+         giveni={V\bibinitperiod},
+      }}%
+    }
+    \keyw{Exemplification effect, Experiment, Student behaviour/attitudes, Teaching evaluation website, University professor rating}
+    \strng{namehash}{SSMPFV1}
+    \strng{fullhash}{SSMPFV1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{shorttitle}
+    \field{labelyear}{2013}
+    \field{labeldatesource}{}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{abstract}{%
+    The use and abuse of course and lecturer rating websites such as {RateMyProfessors}.com™ is a highly relevant topic for universities’ evaluation and assessment policies and practice. However, only a few studies have paid attention to the actual influence of teaching evaluation websites on the students themselves—that is, their perceptions of a certain course and their course choice intention at university. Findings point to the fact that positive comments on the website about professors improve students’ evaluations. However, professor evaluation websites contain two types of information: single student comments and average ratings. Research on exemplification effects has shown that single cases often have a stronger influence on recipients than more valid base rate information. We test this assumption in an experiment (n = 126) using a professor evaluation website stimulus. Results show that single comments strongly influence opinions and course choice intentions but that they are moderated by the valence of the average rating.%
+    }
+    \verb{doi}
+    \verb 10.1007/s11092-013-9164-z
+    \endverb
+    \field{issn}{1874-8600}
+    \field{number}{2}
+    \field{pages}{131\bibrangedash 141}
+    \field{shortjournal}{Educ Asse Eval Acc}
+    \field{shorttitle}{Single comments or average ratings}
+    \field{title}{Single comments or average ratings: which elements of {RateMyProfessors}.com™ shape university students’ judgments and course choice intentions?}
+    \verb{url}
+    \verb https://doi.org/10.1007/s11092-013-9164-z
+    \endverb
+    \field{volume}{25}
+    \field{langid}{english}
+    \verb{file}
+    \verb scherr2013.pdf:C\:\\Users\\Will\\OneDrive - Northern Kentucky Univers
+    \verb ity\\NKU\\G. Fall 2023\\HNR 497\\papers\\scherr2013.pdf:application/p
+    \verb df
+    \endverb
+    \field{journaltitle}{Educational Assessment, Evaluation and Accountability}
+    \field{day}{01}
+    \field{month}{05}
+    \field{year}{2013}
+    \field{urlday}{22}
+    \field{urlmonth}{09}
+    \field{urlyear}{2023}
+  \endentry
 \enddatalist
 \endinput

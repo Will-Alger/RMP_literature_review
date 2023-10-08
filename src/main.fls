@@ -372,6 +372,11 @@ INPUT c:/texlive/2023/texmf-dist/fonts/tfm/public/lm/lmmib7.tfm
 INPUT c:/texlive/2023/texmf-dist/fonts/tfm/public/lm/lmbsy10.tfm
 INPUT c:/texlive/2023/texmf-dist/fonts/tfm/public/lm/lmbsy10.tfm
 INPUT c:/texlive/2023/texmf-dist/fonts/tfm/public/lm/lmbsy7.tfm
+INPUT c:/texlive/2023/texmf-dist/tex/latex/lm/ts1lmr.fd
+INPUT c:/texlive/2023/texmf-dist/tex/latex/lm/ts1lmr.fd
+INPUT c:/texlive/2023/texmf-dist/tex/latex/lm/ts1lmr.fd
+INPUT c:/texlive/2023/texmf-dist/fonts/tfm/public/lm/ts1-lmr12.tfm
+INPUT c:/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc
 INPUT main.aux
 INPUT ./main.out
 INPUT ./main.out
