@@ -1,0 +1,2 @@
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QResearch consistently validates Ratemyprofessor's influence on shaping student opinions and academic decisions.\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QThese findings underscore Ratemyprofessor's role in influencing student decisions regarding course selection.\\E$"}

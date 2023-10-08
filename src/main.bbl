@@ -17,63 +17,196 @@
 \endgroup
 
 \datalist[entry]{nyt/global//global/global}
-  \entry{lewandowski_just_2012}{article}{}
-    \name{author}{3}{}{%
-      {{hash=LGW}{%
-         family={Lewandowski},
-         familyi={L\bibinitperiod},
-         given={Gary\bibnamedelima W.},
-         giveni={G\bibinitperiod\bibinitdelim W\bibinitperiod},
+  \entry{bleske-rechek_ratemyprofessors_2010}{article}{}
+    \name{author}{2}{}{%
+      {{hash=BRA}{%
+         family={Bleske-Rechek},
+         familyi={B\bibinithyphendelim R\bibinitperiod},
+         given={April},
+         giveni={A\bibinitperiod},
       }}%
-      {{hash=HE}{%
-         family={Higgins},
-         familyi={H\bibinitperiod},
-         given={Emma},
-         giveni={E\bibinitperiod},
-      }}%
-      {{hash=NNN}{%
-         family={Nardone},
-         familyi={N\bibinitperiod},
-         given={Natalie\bibnamedelima N.},
-         giveni={N\bibinitperiod\bibinitdelim N\bibinitperiod},
+      {{hash=MK}{%
+         family={Michels},
+         familyi={M\bibinitperiod},
+         given={Kelsey},
+         giveni={K\bibinitperiod},
       }}%
     }
-    \keyw{experiment, influences on evaluation, teaching evaluation, technology}
-    \strng{namehash}{LGWHENNN1}
-    \strng{fullhash}{LGWHENNN1}
+    \strng{namehash}{BRAMK1}
+    \strng{fullhash}{BRAMK1}
     \field{labelnamesource}{author}
     \field{labeltitlesource}{shorttitle}
-    \field{labelyear}{2012}
+    \field{labelyear}{2010}
     \field{labeldatesource}{}
-    \field{sortinit}{L}
-    \field{sortinithash}{L}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \verb{doi}
+    \verb https://doi.org/10.7275/ax6d-qa78
+    \endverb
+    \field{issn}{1531-7714}
+    \field{number}{1}
+    \field{shorttitle}{{RateMyProfessors} com}
+    \field{title}{{RateMyProfessors} com: Testing Assumptions about Student Use and Misuse}
+    \verb{url}
+    \verb https://scholarworks.umass.edu/pare/vol15/iss1/5
+    \endverb
+    \field{volume}{15}
+    \verb{file}
+    \verb "RateMyProfessors com\: Testing Assumptions about Student Use and Mis
+    \verb us" by April Bleske-Rechek and Kelsey Michels:C\:\\Users\\Will\\Zoter
+    \verb o\\storage\\USSXC7RT\\5.html:text/html;Bleske-Rechek2010.pdf:C\:\\Use
+    \verb rs\\Will\\OneDrive - Northern Kentucky University\\NKU\\G. Fall 2023\
+    \verb \HNR 497\\papers\\Bleske-Rechek2010.pdf:application/pdf
+    \endverb
+    \field{journaltitle}{Practical Assessment, Research, and Evaluation}
+    \field{year}{2010}
+  \endentry
+
+  \entry{boswell_effects_2020}{article}{}
+    \name{author}{1}{}{%
+      {{hash=BSS}{%
+         family={Boswell},
+         familyi={B\bibinitperiod},
+         given={Stefanie\bibnamedelima S.},
+         giveni={S\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BSS1}
+    \strng{fullhash}{BSS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2020}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
     \field{abstract}{%
-    This set of experiments assessed the influence of {RateMyProfessors}.com profiles, and the perceived credibility of those profiles, on students’ evaluations of professors and retention of material. In Study 1, 302 undergraduates were randomly assigned to read positive or negative {RateMyProfessors}.com profiles with comments that focused on superficial or legitimate professor features. Participants then watched a lecture clip, provided professor ratings and completed a quiz on the lecture. In Study 2, 81 students who were randomly assigned to read the same {RateMyProfessors}.com profiles before an actual class provided credibility ratings of the information, listened to a lecture and provided professor ratings at the end. Across both experiments, one in a laboratory setting, and one in an authentic undergraduate lecture, participants gave more favourable professor ratings after reading positive evaluations from {RateMyProfessors}.com information. These findings establish the causal link between professor information and subsequent evaluations.%
+    This study investigated effects of Ratemyprofessors.com and university student evaluations of teaching on students’ course decision-making and self-efficacy in an ethnically diverse undergraduate sample. It also investigated if these effects were impacted by evaluation positivity. Additionally, the study explored if attitudes toward Ratemyprofessors.com were related to student gender, college class, and age. Participants were 73 undergraduates who were exposed to positive and negative evaluations about fictitious professors; participants were informed that the evaluations originated from Ratemyprofessors.com or university student evaluations of teaching. Evaluation positivity but not type influenced students’ intention to enroll in the professor’s course, but not how seriously they would consider the feedback. Evaluation positivity also influenced self-efficacy. Beliefs about and use of Ratemyprofessors.com were not related to student gender, college class, or age. Evaluation positivity’s effect on student course decision making and self-efficacy has implications for for university students, faculty, and administrators.%
     }
     \verb{doi}
-    \verb 10.1080/02602938.2011.594497
+    \verb 10.18870/hlrc.v10i2.1194
+    \endverb
+    \field{issn}{2157-6254}
+    \field{number}{2}
+    \field{shortjournal}{hlrc}
+    \field{title}{Effects of Ratemyprofessors.com and University Student Evaluations of Teaching on Students’ Course Decision-Making and Self-Efficacy}
+    \verb{url}
+    \verb https://scholarworks.waldenu.edu/hlrc/vol10/iss2/9
+    \endverb
+    \field{volume}{10}
+    \field{langid}{english}
+    \verb{file}
+    \verb Boswell - 2020 - Effects of Ratemyprofessors.com and University Stu.p
+    \verb df:C\:\\Users\\Will\\Zotero\\storage\\GGCV4UW4\\Boswell - 2020 - Effe
+    \verb cts of Ratemyprofessors.com and University Stu.pdf:application/pdf
+    \endverb
+    \field{journaltitle}{Higher Learning Research Communications}
+    \field{day}{01}
+    \field{month}{09}
+    \field{year}{2020}
+    \field{urlday}{07}
+    \field{urlmonth}{10}
+    \field{urlyear}{2023}
+  \endentry
+
+  \entry{chiang_students_2017}{article}{}
+    \name{author}{1}{}{%
+      {{hash=CKP}{%
+         family={Chiang},
+         familyi={C\bibinitperiod},
+         given={Kuan-Pin},
+         giveni={K\bibinithyphendelim P\bibinitperiod},
+      }}%
+    }
+    \keyw{attitude, faculty evaluations, faculty ratings, perception, {RateMyProfessors}, student evaluations}
+    \strng{namehash}{CKP1}
+    \strng{fullhash}{CKP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{shorttitle}
+    \field{labelyear}{2017}
+    \field{labeldatesource}{}
+    \field{sortinit}{C}
+    \field{sortinithash}{C}
+    \field{abstract}{%
+    Since its inception in 1999, the website of {RateMyProfessors}.com has been popular and has gathered more than 15 million ratings of approximate 1.5 million professors from more than 7,000 schools. It provides college students opportunities to rate and comment on their instructors and helps them with course selection. The purpose of this study was to investigate the college student perception and attitude towards this website. We analysed survey data from 166 undergraduate students. Our findings suggest that overall students have positive experiences and find {RMP} as a reliable source of information for course selection. About 25\% of participants who have posted ratings have stronger positive attitude towards the website and higher tendency to check the website before registering classes.%
+    }
+    \verb{doi}
+    \verb 10.1504/IJSMILE.2017.086083
+    \endverb
+    \field{issn}{2050-3954}
+    \field{note}{Publisher: Inderscience Publishers}
+    \field{number}{1}
+    \field{pages}{21\bibrangedash 31}
+    \field{shorttitle}{Students' perspectives on {RateMyProfessors}.com}
+    \field{title}{Students' perspectives on {RateMyProfessors}.com: an empirical investigation of perception and attitude}
+    \verb{url}
+    \verb https://www.inderscienceonline.com/doi/abs/10.1504/IJSMILE.2017.08608
+    \verb 3
+    \endverb
+    \field{volume}{5}
+    \verb{file}
+    \verb Chiang - 2017 - Students' perspectives on RateMyProfessors.com an.pdf
+    \verb :C\:\\Users\\Will\\Zotero\\storage\\KHLXMUGJ\\Chiang - 2017 - Student
+    \verb s' perspectives on RateMyProfessors.com an.pdf:application/pdf
+    \endverb
+    \field{journaltitle}{International Journal of Social Media and Interactive Learning Environments}
+    \field{month}{01}
+    \field{year}{2017}
+    \field{urlday}{07}
+    \field{urlmonth}{10}
+    \field{urlyear}{2023}
+  \endentry
+
+  \entry{davison_how_2009}{article}{}
+    \name{author}{2}{}{%
+      {{hash=DE}{%
+         family={Davison},
+         familyi={D\bibinitperiod},
+         given={Elizabeth},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=PJ}{%
+         family={Price},
+         familyi={P\bibinitperiod},
+         given={Jammie},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \keyw{online ratings, Rate My Professors, student evaluations, teaching effectiveness, teaching evaluations}
+    \strng{namehash}{DEPJ1}
+    \strng{fullhash}{DEPJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{shorttitle}
+    \field{labelyear}{2009}
+    \field{labeldatesource}{}
+    \field{sortinit}{D}
+    \field{sortinithash}{D}
+    \field{abstract}{%
+    This paper analyses the popular {RateMyProfessors} ({RMP}) website where students evaluate instructors in higher education. A study was designed to measure (1) the awareness and utilisation of the {RMP} website, (2) the internal and external validity of the {RMP} ratings in measuring teaching effectiveness, and (3) variation in the above across disciplines. It is concluded that the category of ratings, created by the website, establishes an anti‐intellectual tone that manifests itself in comments about instructors’ personality, easiness of workload and entertainment value rather than knowledge attained.%
+    }
+    \verb{doi}
+    \verb 10.1080/02602930801895695
     \endverb
     \field{issn}{0260-2938}
-    \field{note}{Publisher: Routledge \_eprint: https://doi.org/10.1080/02602938.2011.594497}
-    \field{number}{8}
-    \field{pages}{987\bibrangedash 1002}
-    \field{shorttitle}{Just a harmless website?}
-    \field{title}{Just a harmless website?: an experimental examination of {RateMyProfessors}.com’s effect on student evaluations}
+    \field{note}{Publisher: Routledge \_eprint: https://doi.org/10.1080/02602930801895695}
+    \field{number}{1}
+    \field{pages}{51\bibrangedash 65}
+    \field{shorttitle}{How do we rate?}
+    \field{title}{How do we rate? An evaluation of online student evaluations}
     \verb{url}
-    \verb https://doi.org/10.1080/02602938.2011.594497
+    \verb https://doi.org/10.1080/02602930801895695
     \endverb
-    \field{volume}{37}
+    \field{volume}{34}
     \verb{file}
-    \verb lewandowski2012.pdf:C\:\\Users\\Will\\OneDrive - Northern Kentucky Un
-    \verb iversity\\NKU\\G. Fall 2023\\HNR 497\\papers\\lewandowski2012.pdf:app
-    \verb lication/pdf
+    \verb Submitted Version:C\:\\Users\\Will\\Zotero\\storage\\NM4BJHGR\\Daviso
+    \verb n and Price - 2009 - How do we rate An evaluation of online student e
+    \verb v.pdf:application/pdf
     \endverb
     \field{journaltitle}{Assessment \& Evaluation in Higher Education}
     \field{day}{01}
-    \field{month}{12}
-    \field{year}{2012}
-    \field{urlday}{22}
-    \field{urlmonth}{09}
+    \field{month}{02}
+    \field{year}{2009}
+    \field{urlday}{07}
+    \field{urlmonth}{10}
     \field{urlyear}{2023}
   \endentry
 \enddatalist
