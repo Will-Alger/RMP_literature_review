@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.21)  19 OCT 2023 17:50
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.21)  21 OCT 2023 13:37
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -517,18 +517,26 @@ Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
 \f@nch@O@erf=\skip80
 \f@nch@O@olf=\skip81
 \f@nch@O@orf=\skip82
+) (c:/texlive/2023/texmf-dist/tex/latex/endfloat/endfloat.sty
+Package: endfloat 2019/04/15 v2.7 LaTeX2e package puts figures and tables at end (jdm)
+\c@posttable=\count309
+\efloat@postttt=\write4
+\@ef@tttopen=\count310
+\c@postfigure=\count311
+\efloat@postfff=\write5
+\@ef@fffopen=\count312
 )) (c:/texlive/2023/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2021/02/14 v1.3d Input encoding file
 \inpenc@prehook=\toks31
 \inpenc@posthook=\toks32
 ) (c:/texlive/2023/texmf-dist/tex/generic/babel/babel.sty
 Package: babel 2023/09/12 v3.94 The Babel package
-\babel@savecnt=\count309
+\babel@savecnt=\count313
 \U@D=\dimen288
 \l@unhyphenated=\language89
  (c:/texlive/2023/texmf-dist/tex/generic/babel/txtbabel.def)
 \bbl@readstream=\read3
-\bbl@dirlevel=\count310
+\bbl@dirlevel=\count314
  (c:/texlive/2023/texmf-dist/tex/generic/babel-english/english.ldf
 Language: english 2017/06/06 v3.3r English support from the babel system
 Package babel Info: Hyphen rules for 'canadian' set to \l@english
@@ -544,55 +552,55 @@ Package babel Info: Importing font and identification data for english
 Package: biblatex 2023/03/05 v3.19 programmable bibliographies (PK/MW)
  (c:/texlive/2023/texmf-dist/tex/latex/logreq/logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
-\lrq@indent=\count311
+\lrq@indent=\count315
  (c:/texlive/2023/texmf-dist/tex/latex/logreq/logreq.def
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 )) (c:/texlive/2023/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
 )
-\c@tabx@nest=\count312
-\c@listtotal=\count313
-\c@listcount=\count314
-\c@liststart=\count315
-\c@liststop=\count316
-\c@citecount=\count317
-\c@citetotal=\count318
-\c@multicitecount=\count319
-\c@multicitetotal=\count320
-\c@instcount=\count321
-\c@maxnames=\count322
-\c@minnames=\count323
-\c@maxitems=\count324
-\c@minitems=\count325
-\c@citecounter=\count326
-\c@maxcitecounter=\count327
-\c@savedcitecounter=\count328
-\c@uniquelist=\count329
-\c@uniquename=\count330
-\c@refsection=\count331
-\c@refsegment=\count332
-\c@maxextratitle=\count333
-\c@maxextratitleyear=\count334
-\c@maxextraname=\count335
-\c@maxextradate=\count336
-\c@maxextraalpha=\count337
-\c@abbrvpenalty=\count338
-\c@highnamepenalty=\count339
-\c@lownamepenalty=\count340
-\c@maxparens=\count341
-\c@parenlevel=\count342
-\blx@tempcnta=\count343
-\blx@tempcntb=\count344
-\blx@tempcntc=\count345
-\c@blx@maxsection=\count346
-\blx@maxsegment@0=\count347
-\blx@notetype=\count348
-\blx@parenlevel@text=\count349
-\blx@parenlevel@foot=\count350
-\blx@sectionciteorder@0=\count351
-\blx@sectionciteorderinternal@0=\count352
-\blx@entrysetcounter=\count353
-\blx@biblioinstance=\count354
+\c@tabx@nest=\count316
+\c@listtotal=\count317
+\c@listcount=\count318
+\c@liststart=\count319
+\c@liststop=\count320
+\c@citecount=\count321
+\c@citetotal=\count322
+\c@multicitecount=\count323
+\c@multicitetotal=\count324
+\c@instcount=\count325
+\c@maxnames=\count326
+\c@minnames=\count327
+\c@maxitems=\count328
+\c@minitems=\count329
+\c@citecounter=\count330
+\c@maxcitecounter=\count331
+\c@savedcitecounter=\count332
+\c@uniquelist=\count333
+\c@uniquename=\count334
+\c@refsection=\count335
+\c@refsegment=\count336
+\c@maxextratitle=\count337
+\c@maxextratitleyear=\count338
+\c@maxextraname=\count339
+\c@maxextradate=\count340
+\c@maxextraalpha=\count341
+\c@abbrvpenalty=\count342
+\c@highnamepenalty=\count343
+\c@lownamepenalty=\count344
+\c@maxparens=\count345
+\c@parenlevel=\count346
+\blx@tempcnta=\count347
+\blx@tempcntb=\count348
+\blx@tempcntc=\count349
+\c@blx@maxsection=\count350
+\blx@maxsegment@0=\count351
+\blx@notetype=\count352
+\blx@parenlevel@text=\count353
+\blx@parenlevel@foot=\count354
+\blx@sectionciteorder@0=\count355
+\blx@sectionciteorderinternal@0=\count356
+\blx@entrysetcounter=\count357
+\blx@biblioinstance=\count358
 \labelnumberwidth=\skip83
 \labelalphawidth=\skip84
 \biblabelsep=\skip85
@@ -602,11 +610,11 @@ Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
 \bibparsep=\skip89
 \bibhang=\skip90
 \blx@bcfin=\read4
-\blx@bcfout=\write4
+\blx@bcfout=\write6
 \blx@langwohyphens=\language90
-\c@mincomprange=\count355
-\c@maxcomprange=\count356
-\c@mincompwidth=\count357
+\c@mincomprange=\count359
+\c@maxcomprange=\count360
+\c@mincompwidth=\count361
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
  (c:/texlive/2023/texmf-dist/tex/latex/biblatex/blx-dm.def
@@ -616,74 +624,74 @@ Package biblatex Info: Trying to load biblatex style data model...
 Package biblatex Info: ... file 'authoryear.dbx' not found.
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
-\c@afterword=\count358
-\c@savedafterword=\count359
-\c@annotator=\count360
-\c@savedannotator=\count361
-\c@author=\count362
-\c@savedauthor=\count363
-\c@bookauthor=\count364
-\c@savedbookauthor=\count365
-\c@commentator=\count366
-\c@savedcommentator=\count367
-\c@editor=\count368
-\c@savededitor=\count369
-\c@editora=\count370
-\c@savededitora=\count371
-\c@editorb=\count372
-\c@savededitorb=\count373
-\c@editorc=\count374
-\c@savededitorc=\count375
-\c@foreword=\count376
-\c@savedforeword=\count377
-\c@holder=\count378
-\c@savedholder=\count379
-\c@introduction=\count380
-\c@savedintroduction=\count381
-\c@namea=\count382
-\c@savednamea=\count383
-\c@nameb=\count384
-\c@savednameb=\count385
-\c@namec=\count386
-\c@savednamec=\count387
-\c@translator=\count388
-\c@savedtranslator=\count389
-\c@shortauthor=\count390
-\c@savedshortauthor=\count391
-\c@shorteditor=\count392
-\c@savedshorteditor=\count393
-\c@labelname=\count394
-\c@savedlabelname=\count395
-\c@institution=\count396
-\c@savedinstitution=\count397
-\c@lista=\count398
-\c@savedlista=\count399
-\c@listb=\count400
-\c@savedlistb=\count401
-\c@listc=\count402
-\c@savedlistc=\count403
-\c@listd=\count404
-\c@savedlistd=\count405
-\c@liste=\count406
-\c@savedliste=\count407
-\c@listf=\count408
-\c@savedlistf=\count409
-\c@location=\count410
-\c@savedlocation=\count411
-\c@organization=\count412
-\c@savedorganization=\count413
-\c@origlocation=\count414
-\c@savedoriglocation=\count415
-\c@origpublisher=\count416
-\c@savedorigpublisher=\count417
-\c@publisher=\count418
-\c@savedpublisher=\count419
-\c@language=\count420
-\c@savedlanguage=\count421
-\c@origlanguage=\count422
-\c@savedoriglanguage=\count423
-\c@pageref=\count424
-\c@savedpageref=\count425
+\c@afterword=\count362
+\c@savedafterword=\count363
+\c@annotator=\count364
+\c@savedannotator=\count365
+\c@author=\count366
+\c@savedauthor=\count367
+\c@bookauthor=\count368
+\c@savedbookauthor=\count369
+\c@commentator=\count370
+\c@savedcommentator=\count371
+\c@editor=\count372
+\c@savededitor=\count373
+\c@editora=\count374
+\c@savededitora=\count375
+\c@editorb=\count376
+\c@savededitorb=\count377
+\c@editorc=\count378
+\c@savededitorc=\count379
+\c@foreword=\count380
+\c@savedforeword=\count381
+\c@holder=\count382
+\c@savedholder=\count383
+\c@introduction=\count384
+\c@savedintroduction=\count385
+\c@namea=\count386
+\c@savednamea=\count387
+\c@nameb=\count388
+\c@savednameb=\count389
+\c@namec=\count390
+\c@savednamec=\count391
+\c@translator=\count392
+\c@savedtranslator=\count393
+\c@shortauthor=\count394
+\c@savedshortauthor=\count395
+\c@shorteditor=\count396
+\c@savedshorteditor=\count397
+\c@labelname=\count398
+\c@savedlabelname=\count399
+\c@institution=\count400
+\c@savedinstitution=\count401
+\c@lista=\count402
+\c@savedlista=\count403
+\c@listb=\count404
+\c@savedlistb=\count405
+\c@listc=\count406
+\c@savedlistc=\count407
+\c@listd=\count408
+\c@savedlistd=\count409
+\c@liste=\count410
+\c@savedliste=\count411
+\c@listf=\count412
+\c@savedlistf=\count413
+\c@location=\count414
+\c@savedlocation=\count415
+\c@organization=\count416
+\c@savedorganization=\count417
+\c@origlocation=\count418
+\c@savedoriglocation=\count419
+\c@origpublisher=\count420
+\c@savedorigpublisher=\count421
+\c@publisher=\count422
+\c@savedpublisher=\count423
+\c@language=\count424
+\c@savedlanguage=\count425
+\c@origlanguage=\count426
+\c@savedoriglanguage=\count427
+\c@pageref=\count428
+\c@savedpageref=\count429
 \shorthandwidth=\skip91
 \shortjournalwidth=\skip92
 \shortserieswidth=\skip93
@@ -717,19 +725,19 @@ Package biblatex Info: Trying to load generic definitions...
 Package biblatex Info: ... file 'biblatex.def' found.
  (c:/texlive/2023/texmf-dist/tex/latex/biblatex/biblatex.def
 File: biblatex.def 2023/03/05 v3.19 biblatex compatibility (PK/MW)
-\c@textcitecount=\count426
-\c@textcitetotal=\count427
-\c@textcitemaxnames=\count428
-\c@biburlbigbreakpenalty=\count429
-\c@biburlbreakpenalty=\count430
-\c@biburlnumpenalty=\count431
-\c@biburlucpenalty=\count432
-\c@biburllcpenalty=\count433
+\c@textcitecount=\count430
+\c@textcitetotal=\count431
+\c@textcitemaxnames=\count432
+\c@biburlbigbreakpenalty=\count433
+\c@biburlbreakpenalty=\count434
+\c@biburlnumpenalty=\count435
+\c@biburlucpenalty=\count436
+\c@biburllcpenalty=\count437
 \biburlbigskip=\muskip17
 \biburlnumskip=\muskip18
 \biburlucskip=\muskip19
 \biburllcskip=\muskip20
-\c@smartand=\count434
+\c@smartand=\count438
 )
 Package biblatex Info: Trying to load bibliography style 'authoryear'...
 Package biblatex Info: ... file 'authoryear.bbx' found.
@@ -739,8 +747,8 @@ Package biblatex Info: Trying to load bibliography style 'standard'...
 Package biblatex Info: ... file 'standard.bbx' found.
  (c:/texlive/2023/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
 File: standard.bbx 2023/03/05 v3.19 biblatex bibliography style (PK/MW)
-\c@bbx:relatedcount=\count435
-\c@bbx:relatedtotal=\count436
+\c@bbx:relatedcount=\count439
+\c@bbx:relatedtotal=\count440
 ))
 Package biblatex Info: Trying to load citation style 'authoryear'...
 Package biblatex Info: ... file 'authoryear.cbx' found.
@@ -765,7 +773,7 @@ Package biblatex Info: Document encoding is UTF8 ....
 Package: expl3 2023-08-29 L3 programming layer (loader) 
  (c:/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2023-04-19 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count437
+\l__color_backend_stack_int=\count441
 \l__pdf_internal_box=\box64
 ))
 Package biblatex Info: ... and expl3
@@ -778,12 +786,12 @@ Package: xparse 2023-08-29 L3 Experimental document command parser
 Package: blx-case-expl3 2023/03/05 v3.19 expl3 case changing code for biblatex
 )) (c:/texlive/2023/texmf-dist/tex/latex/csquotes/csquotes.sty
 Package: csquotes 2022-09-14 v5.2n context-sensitive quotations (JAW)
-\csq@reset=\count438
-\csq@gtype=\count439
-\csq@glevel=\count440
-\csq@qlevel=\count441
-\csq@maxlvl=\count442
-\csq@tshold=\count443
+\csq@reset=\count442
+\csq@gtype=\count443
+\csq@glevel=\count444
+\csq@qlevel=\count445
+\csq@maxlvl=\count446
+\csq@tshold=\count447
 \csq@ltx@everypar=\toks33
  (c:/texlive/2023/texmf-dist/tex/latex/csquotes/csquotes.def
 File: csquotes.def 2022-09-14 v5.2n csquotes generic definitions (JAW)
@@ -812,7 +820,7 @@ Package: ragged2e 2023/06/22 v3.6 ragged2e Package
 Package: microtype 2023/03/13 v3.1a Micro-typographical refinements (RS)
 \MT@toks=\toks34
 \MT@tempbox=\box65
-\MT@count=\count444
+\MT@count=\count448
 LaTeX Info: Redefining \noprotrusionifhmode on input line 1059.
 LaTeX Info: Redefining \leftprotrusion on input line 1060.
 \MT@prot@toks=\toks35
@@ -820,7 +828,7 @@ LaTeX Info: Redefining \rightprotrusion on input line 1078.
 LaTeX Info: Redefining \textls on input line 1368.
 \MT@outer@kern=\dimen289
 LaTeX Info: Redefining \textmicrotypecontext on input line 1988.
-\MT@listname@count=\count445
+\MT@listname@count=\count449
  (c:/texlive/2023/texmf-dist/tex/latex/microtype/microtype-pdftex.def
 File: microtype-pdftex.def 2023/03/13 v3.1a Definitions specific to pdftex (RS)
 LaTeX Info: Redefining \lsstyle on input line 902.
@@ -831,13 +839,13 @@ Package microtype Info: Loading configuration file microtype.cfg.
  (c:/texlive/2023/texmf-dist/tex/latex/microtype/microtype.cfg
 File: microtype.cfg 2023/03/13 v3.1a microtype main configuration file (RS)
 ))
-\c@NumberOfAuthors=\count446
-\c@NumberOfSuperscripts=\count447
+\c@NumberOfAuthors=\count450
+\c@NumberOfSuperscripts=\count451
 
 
 Class apa7 Warning: Deprecated: see documentation for \authorsaffiliations on input line 15.
 
-\c@NumberOfAffiliations=\count448
+\c@NumberOfAffiliations=\count452
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
@@ -876,23 +884,23 @@ LaTeX Font Info:    ... okay on input line 18.
 * v-part:(T,H,B)=(72.26999pt, 650.43001pt, 72.26999pt)
 * \paperwidth=614.295pt
 * \paperheight=794.96999pt
-* \textwidth=433.62pt
-* \textheight=614.295pt
-* \oddsidemargin=18.06749pt
-* \evensidemargin=18.06749pt
-* \topmargin=-18.06749pt
+* \textwidth=469.75502pt
+* \textheight=650.43001pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=-37.0pt
 * \headheight=15.2pt
 * \headsep=25.0pt
 * \topskip=12.0pt
 * \footskip=30.0pt
-* \marginparwidth=4.0pt
+* \marginparwidth=44.0pt
 * \marginparsep=10.0pt
 * \columnsep=10.0pt
 * \skip\footins=10.8pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
-* \@twocolumntrue
+* \@twocolumnfalse
 * \@twosidefalse
 * \@mparswitchfalse
 * \@reversemarginfalse
@@ -900,16 +908,16 @@ LaTeX Font Info:    ... okay on input line 18.
 
 (c:/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count449
+\scratchcounter=\count453
 \scratchdimen=\dimen290
 \scratchbox=\box66
-\nofMPsegments=\count450
-\nofMParguments=\count451
+\nofMPsegments=\count454
+\nofMParguments=\count455
 \everyMPshowfont=\toks36
-\MPscratchCnt=\count452
+\MPscratchCnt=\count456
 \MPscratchDim=\dimen291
-\MPnumerator=\count453
-\makeMPintoPDFobject=\count454
+\MPnumerator=\count457
+\makeMPintoPDFobject=\count458
 \everyMPtoPDFconversion=\toks37
 ) (c:/texlive/2023/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -919,8 +927,8 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
 Package hyperref Info: Link coloring OFF on input line 18.
  (./main.out) (./main.out)
-\@outlinefile=\write5
-\openout5 = `main.out'.
+\@outlinefile=\write7
+\openout7 = `main.out'.
 
  (c:/texlive/2023/texmf-dist/tex/latex/apa7/config/APA7english.txt
 File: APA7english.txt 2020/12/02 v1.02 apa7 configuration for non-American English
@@ -938,7 +946,7 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Data encoding 'utf8' specified.
 (biblatex)             No need to reencode data.
-\openout4 = `main-blx.bib'.
+\openout6 = `main-blx.bib'.
 
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
@@ -968,65 +976,13 @@ File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (
 Class apa7 Warning: Abstract not defined.
 
 Class apa7 Info: Keywords not defined on input line 19.
-Using title for running head
-[1
+[1{c:/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}
 
-{c:/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}]
-Underfull \hbox (badness 2426) in paragraph at lines 49--49
-[][]\T1/lmr/bx/n/12 (+20) Student En-gage-ment with Rate-
- []
-
-[2]
-Underfull \hbox (badness 5431) in paragraph at lines 52--52
-[][]\T1/lmr/bx/n/12 (+20) Ratemyprofessor as a Decision-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 53--54
-[]\T1/lmr/m/n/12 (+20) With such widespread us-age
- []
-
-
-Underfull \hbox (badness 6859) in paragraph at lines 53--54
-\T1/lmr/m/n/12 (+20) eval-u-a-tions could in-flu-ence stu-dents
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 53--54
-\T1/lmr/m/n/12 (+20) pos-i-tively cor-re-lated with pro-fes-sor
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 63--63
-[][]\T1/lmr/bx/n/12 (+20) Effect of Rate-MyPro-fes-sor on
- []
-
-
-LaTeX Warning: Citation 'smith_teacher_2018' on page 3 undefined on input line 68.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--69
-[][] \T1/lmr/m/n/12 (+20) found
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 68--69
-\T1/lmr/m/n/12 (+20) with de-creased teacher self-efficacy,
- []
-
-
-LaTeX Warning: Citation 'jones_pedagogical_2019' on page 3 undefined on input line 70.
-
-
-Underfull \hbox (badness 7740) in paragraph at lines 70--71
-\T1/lmr/m/n/12 (+20) noted by []
- []
-
-[3]
+] [2] [3] [4] [5] [6] [7] [8]
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/lmr/m/sc/12'.
 (microtype)             Ignoring protrusion settings for this character.
-LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 80.
+LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 93.
  (c:/texlive/2023/texmf-dist/tex/latex/lm/t1lmtt.fd
 File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
@@ -1034,114 +990,58 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `lmtt' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 80.
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 93.
  (c:/texlive/2023/texmf-dist/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 80.
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 93.
  (c:/texlive/2023/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 80.
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 93.
  (c:/texlive/2023/texmf-dist/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 80.
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 93.
  (c:/texlive/2023/texmf-dist/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 80.
+(Font)              <12> on input line 93.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 80.
+(Font)              <8> on input line 93.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 80.
+(Font)              <6> on input line 93.
+ [9
 
-Underfull \hbox (badness 1552) in paragraph at lines 81--81
-\T1/lmr/m/n/12 (+20) (Feb. 1, 2009). ^^P  How do we rate?
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 81--81
-\T1/lmr/m/n/12 (+20) An eval-u-a-tion of on-line stu-dent
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 81--81
-\T1/lmr/m/n/12 (+20) eval-u-a-tions^^Q. In: \T1/lmr/m/it/12 (+20) As-sess-ment &
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 81--81
-\T1/lmr/m/it/12 (+20) Eval-u-a-tion in Higher Ed-u-ca-tion
- []
-
-
-Underfull \hbox (badness 2277) in paragraph at lines 81--81
-\T1/lmr/m/n/12 (+20) 34.1. Pub-lisher: Rout-ledge _eprint:
- []
-
-
-Overfull \hbox (23.86671pt too wide) in paragraph at lines 81--81
-\T1/lmr/m/n/12 (-20) https://doi.org/10.1080/02602930801895695,
- []
-
-
-Underfull \hbox (badness 7116) in paragraph at lines 81--81
-\T1/lmr/m/n/12 (+20) pp. 51^^U65. \T1/lmr/m/sc/12 (+20) issn\T1/lmr/m/n/12 (+20) : 0260-2938. \T1/lmr/m/sc/12 (+20) doi\T1/lmr/m/n/12 (+20) :
- []
-
-
-Underfull \hbox (badness 1400) in paragraph at lines 81--81
-[]$\T1/lmtt/m/n/12 https : / / doi . org / 10 . 1080 /
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 81--81
-\T1/lmtt/m/n/12 02602930801895695$[] \T1/lmr/m/n/12 (+20) (vis-ited on
- []
-
-LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 80.
-(c:/texlive/2023/texmf-dist/tex/latex/lm/ts1lmr.fd
+]
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 93.
+ (c:/texlive/2023/texmf-dist/tex/latex/lm/ts1lmr.fd
 File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-)
-Underfull \hbox (badness 1097) in paragraph at lines 81--81
-\T1/lmr/m/n/12 (+20) el-e-ments of Rate-MyPro-fes-sors.com\TS1/lmr/m/n/12 (+20) —
- []
-
-[4{c:/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}] (./main.aux)
+) AED endfloat: Processing end Figures and Tables [10{c:/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}] (./main.aux)
  ***********
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-08-29>
  ***********
-
-
-LaTeX Warning: There were undefined references.
-
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 2DFB8490E2B59ECF296660B45C3674A7;1720.
-
-Package biblatex Warning: Please (re)run BibTeX on the file(s):
-(biblatex)                main
-(biblatex)                and rerun LaTeX afterwards.
-
+(rerunfilecheck)             Checksum: 6BCC52571743F48BD99992DBD81484D2;1982.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 33303 strings out of 474928
- 630872 string characters out of 5763562
- 1934785 words of memory out of 5000000
- 54224 multiletter control sequences out of 15000+600000
- 605848 words of font info for 127 fonts, out of 8000000 for 9000
+ 33485 strings out of 474928
+ 634543 string characters out of 5763562
+ 1929785 words of memory out of 5000000
+ 54443 multiletter control sequences out of 15000+600000
+ 597300 words of font info for 99 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  99i,11n,103p,1915b,1735s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<c:/texlive/2023/texmf-dist/fonts/type1/public/lm/lmbx12.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/lm/lmcsc10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr12.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr17.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/lm/lmri12.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/lm/lmtt12.pfb>
-Output written on main.pdf (4 pages, 177342 bytes).
+<c:/texlive/2023/texmf-dist/fonts/type1/public/lm/lmbx12.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/lm/lmcsc10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr12.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/lm/lmri12.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/lm/lmtt12.pfb>
+Output written on main.pdf (10 pages, 153759 bytes).
 PDF statistics:
- 139 PDF objects out of 1000 (max. 8388607)
- 118 compressed objects within 2 object streams
- 21 named destinations out of 1000 (max. 500000)
- 27213 words of extra memory for PDF output out of 29859 (max. 10000000)
+ 175 PDF objects out of 1000 (max. 8388607)
+ 150 compressed objects within 2 object streams
+ 33 named destinations out of 1000 (max. 500000)
+ 23133 words of extra memory for PDF output out of 24883 (max. 10000000)
 

@@ -62,6 +62,54 @@
     \field{year}{2010}
   \endentry
 
+  \entry{boswell_ratemyprofessors_2016}{article}{}
+    \name{author}{1}{}{%
+      {{hash=BSS}{%
+         family={Boswell},
+         familyi={B\bibinitperiod},
+         given={Stefanie\bibnamedelima S.},
+         giveni={S\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+    }
+    \keyw{Student evaluations of teaching, Ratemyprofessors.com, Self-efficacy}
+    \strng{namehash}{BSS1}
+    \strng{fullhash}{BSS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{shorttitle}
+    \field{labelyear}{2016}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{abstract}{%
+    This study investigated the effect of evaluation origin, Ratemyprofessors.com ({RMP}) or university-administered student evaluations of teaching ({UASET}), and valence, positive or negative, on professors' affect about teaching, self-efficacy for various aspects of teaching, and self-efficacy for professorial competence. Participants were 128 professors who responded to a recruitment email; they participated in an experimental manipulation via {SurveyMonkey} and were exposed to either {RMP} positive, {RMP} negative, {UASET} positive, or {UASET} negative evaluations. Evaluation valence alone influenced participants' affect and self-efficacy; affect and self-efficacy changed in the direction of feedback valence. Although participants consider {RMP} to be less accurate and less serious than {UASET}, {RMP} and {UASET} feedback influenced the participants equally. Feedback influence did not vary by participants' tenure status. Implications of {RMP} and {UASET} feedback on the professor–student relationship and student learning are discussed. Implications for {RMP} on professors and their employment are also discussed. Recommendations for the interpretation of {RMP} feedback are provided.%
+    }
+    \verb{doi}
+    \verb 10.1016/j.chb.2015.11.045
+    \endverb
+    \field{issn}{0747-5632}
+    \field{pages}{155\bibrangedash 162}
+    \field{shortjournal}{Computers in Human Behavior}
+    \field{shorttitle}{Ratemyprofessors is hogwash (but I care)}
+    \field{title}{Ratemyprofessors is hogwash (but I care): Effects of Ratemyprofessors and university-administered teaching evaluations on professors}
+    \verb{url}
+    \verb https://www.sciencedirect.com/science/article/pii/S0747563215302600
+    \endverb
+    \field{volume}{56}
+    \verb{file}
+    \verb boswell2016.pdf:C\:\\Users\\Will\\OneDrive - Northern Kentucky Univer
+    \verb sity\\NKU\\G. Fall 2023\\HNR 497\\papers\\boswell2016.pdf:application
+    \verb /pdf;ScienceDirect Snapshot:C\:\\Users\\Will\\Zotero\\storage\\IX7Z7P
+    \verb 37\\S0747563215302600.html:text/html
+    \endverb
+    \field{journaltitle}{Computers in Human Behavior}
+    \field{day}{01}
+    \field{month}{03}
+    \field{year}{2016}
+    \field{urlday}{22}
+    \field{urlmonth}{09}
+    \field{urlyear}{2023}
+  \endentry
+
   \entry{boswell_effects_2020}{article}{}
     \name{author}{1}{}{%
       {{hash=BSS}{%
@@ -117,7 +165,7 @@
          giveni={K\bibinithyphendelim P\bibinitperiod},
       }}%
     }
-    \keyw{attitude, faculty evaluations, faculty ratings, perception, {RateMyProfessors}, student evaluations}
+    \keyw{{RateMyProfessors}, faculty evaluations, student evaluations, attitude, faculty ratings, perception}
     \strng{namehash}{CKP1}
     \strng{fullhash}{CKP1}
     \field{labelnamesource}{author}
@@ -171,7 +219,7 @@
          giveni={J\bibinitperiod},
       }}%
     }
-    \keyw{online ratings, Rate My Professors, student evaluations, teaching effectiveness, teaching evaluations}
+    \keyw{teaching effectiveness, online ratings, Rate My Professors, student evaluations, teaching evaluations}
     \strng{namehash}{DEPJ1}
     \strng{fullhash}{DEPJ1}
     \field{labelnamesource}{author}
@@ -322,6 +370,134 @@
     \field{day}{01}
     \field{month}{09}
     \field{year}{2011}
+  \endentry
+
+  \entry{orlova_ratemyprofessorscom_2021}{article}{}
+    \name{author}{4}{}{%
+      {{hash=OO}{%
+         family={Orlova},
+         familyi={O\bibinitperiod},
+         given={Olena},
+         giveni={O\bibinitperiod},
+      }}%
+      {{hash=FD}{%
+         family={Friedlander},
+         familyi={F\bibinitperiod},
+         given={Daniel},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=BS}{%
+         family={Baertl},
+         familyi={B\bibinitperiod},
+         given={Shelby},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=SJ}{%
+         family={Steeves},
+         familyi={S\bibinitperiod},
+         given={Jordyn},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \keyw{Negative bias, negatively valenced emotional expressions, Online reviews, Student attitudes}
+    \strng{namehash}{OO+1}
+    \strng{fullhash}{OOFDBSSJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{shorttitle}
+    \field{labelyear}{2021}
+    \field{labeldatesource}{}
+    \field{sortinit}{O}
+    \field{sortinithash}{O}
+    \field{abstract}{%
+    Negatively-valenced emotional expressions ({NVEE}) are identified by the use of extreme language, emoticons, bold lettering, capitalization, and exclamation marks. When used in online review forums, {NVEE} are indicative of the severity of negative reviews, which may be perceived as less valid than negative reviews without {NVEE}. We sought to examine the effects of {NVEE} on student likelihood to take a professor’s class. We presented 51 university students with reviews based on {RateMyProfessors}.{comTM}. Students were randomly assigned to one of three conditions: positive reviews, negative reviews with {NVEE}, or negative reviews without {NVEE}. We found that students who viewed the positive reviews were significantly more likely to take the course than those who viewed negative reviews. Contrary to our prediction, the negative reviews with {NVEE} condition did not indicate greater likelihood of taking the course to the negative review condition without {NVEE}. However, qualitative analysis of student response to reviews showed that students were skeptical of reviews with {NVEE}, indicating that this research is relevant and useful for understanding what makes online reviews helpful.%
+    }
+    \field{issn}{2562-7708}
+    \field{pages}{57\bibrangedash 70}
+    \field{shorttitle}{{RateMyProfessors}.com™}
+    \field{title}{{RateMyProfessors}.com™: The Impact of Negative Online Professor Reviews on Student Judgement}
+    \verb{url}
+    \verb https://journals.kpu.ca/index.php/KPSJ/article/view/1527
+    \endverb
+    \field{langid}{english}
+    \verb{file}
+    \verb Full Text PDF:C\:\\Users\\Will\\Zotero\\storage\\MWRKHT2A\\Orlova et
+    \verb al. - 2021 - RateMyProfessors.com™ The Impact of Negative Onli.pdf:
+    \verb application/pdf
+    \endverb
+    \field{journaltitle}{Kwantlen Psychology Student Journal}
+    \field{day}{26}
+    \field{month}{07}
+    \field{year}{2021}
+    \field{urlday}{21}
+    \field{urlmonth}{10}
+    \field{urlyear}{2023}
+  \endentry
+
+  \entry{reber_perceptual_2017}{article}{}
+    \name{author}{3}{}{%
+      {{hash=RJS}{%
+         family={Reber},
+         familyi={R\bibinitperiod},
+         given={Jeffrey\bibnamedelima S.},
+         giveni={J\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=RRD}{%
+         family={Ridge},
+         familyi={R\bibinitperiod},
+         given={Robert\bibnamedelima D.},
+         giveni={R\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+      {{hash=DSD}{%
+         family={Downs},
+         familyi={D\bibinitperiod},
+         given={Samuel\bibnamedelima D.},
+         giveni={S\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+    }
+    \name{editor}{1}{}{%
+      {{hash=WP}{%
+         family={Walla},
+         familyi={W\bibinitperiod},
+         given={Peter},
+         giveni={P\bibinitperiod},
+      }}%
+    }
+    \keyw{evaluation, expectations, student engagement, student performance, teacher ratings}
+    \strng{namehash}{RJSRRDDSD1}
+    \strng{fullhash}{RJSRRDDSD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2017}
+    \field{labeldatesource}{}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \field{abstract}{%
+    The Internet permits students to share course evaluations with millions of people, and recent research suggests that students who read these evaluations form expectations about instructors’ competence, attractiveness, and capability. The present study extended past research investigating these expectations by (1) exposing participants to actual Ratemyprofessors.com ({RMP}) evaluations, (2) presenting the evaluations on a computer screen to simulate real-world exposure, and (3) assessing the effects of the evaluations on standard outcomes from the pedagogy literature. Results of Study 1 revealed that participants exposed to a positive evaluation rated an instructor as more pedagogically skilled, personally favorable, and a better lecturer than participants who read a negative evaluation. Study 2 replicated these findings and found that participants who read a positive evaluation reported being more engaged in the lecture and scored higher on an unexpected quiz taken one week later than those who read a negative evaluation. Engagement, however, did not mediate the relationship between evaluations and performance. Given these results, instructors might consider reviewing their {RMP} ratings to anticipate the likely expectations of incoming students and to prepare accordingly. However, research that further enhances the realism of this study is needed before specific recommendations for corrective action can be suggested.%
+    }
+    \verb{doi}
+    \verb 10.1080/23311908.2017.1338324
+    \endverb
+    \field{issn}{null}
+    \field{note}{Publisher: Cogent {OA} \_eprint: https://doi.org/10.1080/23311908.2017.1338324}
+    \field{number}{1}
+    \field{pages}{1338324}
+    \field{title}{Perceptual and behavioral effects of expectations formed by exposure to positive or negative Ratemyprofessors.com evaluations}
+    \verb{url}
+    \verb https://doi.org/10.1080/23311908.2017.1338324
+    \endverb
+    \field{volume}{4}
+    \verb{file}
+    \verb Full Text PDF:C\:\\Users\\Will\\Zotero\\storage\\BSXGXMKD\\Reber et a
+    \verb l. - 2017 - Perceptual and behavioral effects of expectations .pdf:ap
+    \verb plication/pdf
+    \endverb
+    \field{journaltitle}{Cogent Psychology}
+    \field{day}{31}
+    \field{month}{12}
+    \field{year}{2017}
+    \field{urlday}{21}
+    \field{urlmonth}{10}
+    \field{urlyear}{2023}
   \endentry
 
   \entry{scherr_single_2013}{article}{}
