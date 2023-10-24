@@ -17,6 +17,99 @@
 \endgroup
 
 \datalist[entry]{nyt/global//global/global}
+  \entry{azab_analysing_2016}{inproceedings}{}
+    \name{author}{3}{}{%
+      {{hash=AM}{%
+         family={Azab},
+         familyi={A\bibinitperiod},
+         given={Mahmoud},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=MR}{%
+         family={Mihalcea},
+         familyi={M\bibinitperiod},
+         given={Rada},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=AJ}{%
+         family={Abernethy},
+         familyi={A\bibinitperiod},
+         given={Jacob},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{AMMRAJ1}
+    \strng{fullhash}{AMMRAJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{shorttitle}
+    \field{labelyear}{2016}
+    \field{labeldatesource}{}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+    \field{abstract}{%
+    Can we tell a good professor from their students’ comments? And are there differences between what is considered to be a good professor by different student groups? We use a large corpus of student evaluations collected from the {RateMyProfessors} website, covering different institutions, disciplines, and cultures, and perform several comparative experiments and analyses aimed to answer these two questions. Our results indicate that (1) we can reliably classify good professors from poor professors with an accuracy of over 90 \%, and (2) we can separate the evaluations made for good professors by different groups with accuracies in the range of 71–89 \%. Furthermore, a qualitative analysis performed using topic modeling highlights the aspects of interest for different student groups.%
+    }
+    \verb{doi}
+    \verb 10.1007/978-3-319-47880-7_27
+    \endverb
+    \field{isbn}{978-3-319-47879-1}
+    \field{pages}{438\bibrangedash 453}
+    \field{shorttitle}{Analysing {RateMyProfessors} Evaluations Across Institutions, Disciplines, and Cultures}
+    \field{title}{Analysing {RateMyProfessors} Evaluations Across Institutions, Disciplines, and Cultures: The Tell-Tale Signs of a Good Professor}
+    \field{day}{11}
+    \field{month}{11}
+    \field{year}{2016}
+  \endentry
+
+  \entry{baker_quantcrit_2019}{article}{}
+    \name{author}{1}{}{%
+      {{hash=BCA}{%
+         family={Baker},
+         familyi={B\bibinitperiod},
+         given={Chuck\bibnamedelima Alan},
+         giveni={C\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \keyw{African American, Critical Race Theory, discrimination, faculty evaluations, minority, {QuantCrit}, racism}
+    \strng{namehash}{BCA1}
+    \strng{fullhash}{BCA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{shorttitle}
+    \field{labelyear}{2019}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{abstract}{%
+    Research on race is a paradigm in qualitative methodology. Researchers believe that when analyzing discrimination, numerical data may miss the subjective characteristics of bigotry. Since the early 1990s, research utilizing critical race theory in education employed a qualitative approach. Recent research using critical race theory includes a quantitative approach called {QuantCrit}. The online faculty evaluation site called Rate My Professor ({RMP}) is designed to allow students an opportunity to appraise faculty performance. Using evaluations of faculty in a Pennsylvania college from both {RMP} and {IOTA}360, this research examines the validity of {RMP} in analyzing minority faculty’s teaching. As predicted by applying a {QuantCrit} approach, results support that {RMP} evaluations show a race bias.%
+    }
+    \verb{doi}
+    \verb 10.32674/jump.v3i1.1012
+    \endverb
+    \field{issn}{2574-3481}
+    \field{note}{Number: 1}
+    \field{number}{1}
+    \field{pages}{1\bibrangedash 22}
+    \field{shorttitle}{A {QuantCrit} Approach}
+    \field{title}{A {QuantCrit} Approach: Using Critical Race Theory as a Means to Evaluate if Rate My Professor Assessments Are Racially Biased}
+    \verb{url}
+    \verb https://www.ojed.org/index.php/jump/article/view/1012
+    \endverb
+    \field{volume}{3}
+    \field{langid}{english}
+    \verb{file}
+    \verb Full Text PDF:C\:\\Users\\Will\\Zotero\\storage\\R9NLXINB\\Baker - 20
+    \verb 19 - A QuantCrit Approach Using Critical Race Theory a.pdf:applicatio
+    \verb n/pdf
+    \endverb
+    \field{journaltitle}{Journal of Underrepresented \& Minority Progress}
+    \field{day}{27}
+    \field{month}{04}
+    \field{year}{2019}
+    \field{urlday}{22}
+    \field{urlmonth}{09}
+    \field{urlyear}{2023}
+  \endentry
+
   \entry{bleske-rechek_ratemyprofessors_2010}{article}{}
     \name{author}{2}{}{%
       {{hash=BRA}{%
@@ -60,6 +153,51 @@
     \endverb
     \field{journaltitle}{Practical Assessment, Research, and Evaluation}
     \field{year}{2010}
+  \endentry
+
+  \entry{boring_gender_2017}{article}{}
+    \name{author}{1}{}{%
+      {{hash=BA}{%
+         family={Boring},
+         familyi={B\bibinitperiod},
+         given={Anne},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \keyw{Gender biases, Gender stereotypes, Student evaluations of teaching, Teaching effectiveness}
+    \strng{namehash}{BA1}
+    \strng{fullhash}{BA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2017}
+    \field{labeldatesource}{}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{abstract}{%
+    This article uses data from a French university to analyze gender biases in student evaluations of teaching ({SETs}). The results of fixed effects and generalized ordered logit regression analyses show that male students express a bias in favor of male professors. Also, the different teaching dimensions that students value in male and female professors tend to match gender stereotypes. Men are perceived by both male and female students as being more knowledgeable and having stronger class leadership skills (which are stereotypically associated with males), despite the fact that students appear to learn as much from women as from men.%
+    }
+    \verb{doi}
+    \verb 10.1016/j.jpubeco.2016.11.006
+    \endverb
+    \field{issn}{0047-2727}
+    \field{pages}{27\bibrangedash 41}
+    \field{shortjournal}{Journal of Public Economics}
+    \field{title}{Gender biases in student evaluations of teaching}
+    \verb{url}
+    \verb https://www.sciencedirect.com/science/article/pii/S0047272716301591
+    \endverb
+    \field{volume}{145}
+    \verb{file}
+    \verb ScienceDirect Snapshot:C\:\\Users\\Will\\Zotero\\storage\\TL68RRDI\\S
+    \verb 0047272716301591.html:text/html
+    \endverb
+    \field{journaltitle}{Journal of Public Economics}
+    \field{day}{01}
+    \field{month}{01}
+    \field{year}{2017}
+    \field{urlday}{23}
+    \field{urlmonth}{10}
+    \field{urlyear}{2023}
   \endentry
 
   \entry{boswell_ratemyprofessors_2016}{article}{}
@@ -255,6 +393,118 @@
     \field{year}{2009}
     \field{urlday}{07}
     \field{urlmonth}{10}
+    \field{urlyear}{2023}
+  \endentry
+
+  \entry{gordon_role_2021}{inproceedings}{}
+    \name{author}{2}{}{%
+      {{hash=GN}{%
+         family={Gordon},
+         familyi={G\bibinitperiod},
+         given={Nikolas},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=AO}{%
+         family={Alam},
+         familyi={A\bibinitperiod},
+         given={Omar},
+         giveni={O\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Association for Computing Machinery}%
+    }
+    \keyw{computer science education, gender, race, {RateMyProfessor}, student evaluation of teaching}
+    \strng{namehash}{GNAO1}
+    \strng{fullhash}{GNAO1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{shorttitle}
+    \field{labelyear}{2021}
+    \field{labeldatesource}{}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \field{abstract}{%
+    Recently, Computer Science ({CS}) education has experienced a renewed interest, driven by the demand in the fast-changing job market. This renewed interest created an uptick of enrollment in computer science courses. Increased number of students search for information about {CS} courses and professors. Often times, students turn to a professor's profile on online sites, e.g. {RateMyProfessor}.com ({RMP}), to read feedback and assessments made by other students. Student Evaluations of Teaching ({SETs}), conducted online or on paper, are widely used to assess and improve the teaching quality of professors, and to provide critical assessment of the teaching material and content. This paper studies the role of race and gender of computer science professors on their teaching evaluation by analyzing the publicly available data of over 39,000 {CS} professors on {RateMyProfessor}. We found that women are generally rated lower then men in overall teaching quality. They are also perceived lower in personality-related student feedback ratings, i.e. they perceived less humorous, and less inspirational. We also found that Asian professors are perceived to be tough graders and lecture heavy. They are also perceived to be more difficult in general.%
+    }
+    \field{booktitle}{Proceedings of the 52nd {ACM} Technical Symposium on Computer Science Education}
+    \verb{doi}
+    \verb 10.1145/3408877.3432369
+    \endverb
+    \field{isbn}{978-1-4503-8062-1}
+    \field{pages}{980\bibrangedash 986}
+    \field{series}{{SIGCSE} '21}
+    \field{shorttitle}{The Role of Race and Gender in Teaching Evaluation of Computer Science Professors}
+    \field{title}{The Role of Race and Gender in Teaching Evaluation of Computer Science Professors: A Large Scale Analysis on {RateMyProfessor} Data}
+    \verb{url}
+    \verb https://doi.org/10.1145/3408877.3432369
+    \endverb
+    \list{location}{1}{%
+      {New York, {NY}, {USA}}%
+    }
+    \verb{file}
+    \verb Gordon and Alam - 2021 - The Role of Race and Gender in Teaching Eval
+    \verb uation.pdf:C\:\\Users\\Will\\Zotero\\storage\\QNIEA96R\\Gordon and Al
+    \verb am - 2021 - The Role of Race and Gender in Teaching Evaluation.pdf:ap
+    \verb plication/pdf
+    \endverb
+    \field{day}{05}
+    \field{month}{03}
+    \field{year}{2021}
+    \field{urlday}{21}
+    \field{urlmonth}{09}
+    \field{urlyear}{2023}
+  \endentry
+
+  \entry{hartman_what_2013}{article}{}
+    \name{author}{2}{}{%
+      {{hash=HKB}{%
+         family={Hartman},
+         familyi={H\bibinitperiod},
+         given={Katherine\bibnamedelima B.},
+         giveni={K\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+      {{hash=HJB}{%
+         family={Hunt},
+         familyi={H\bibinitperiod},
+         given={James\bibnamedelima B.},
+         giveni={J\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HKBHJB1}
+    \strng{fullhash}{HKBHJB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{shorttitle}
+    \field{labelyear}{2013}
+    \field{labeldatesource}{}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{abstract}{%
+    This study examines {RateMyProfessors}.com ratings and comments as a form of electronic word-of-mouth communications. The data represent 2,371 user ratings and comments for 442 marketing professors from 51 U. S. colleges and universities. Qualitative comments were analyzed using updated thematic content analyses. The results indicate significant inclusion of qualitative comments about professors' personal characteristics and teaching attributes. Consistent with the literature on word-of-mouth, social communications theory, and equity theory, more positive and negative comments were found than neutral or mixed remarks. Contrary to popular belief and findings in the literature on conventional word of mouth, comments overall were dominated by compliments rather than complaints.%
+    }
+    \verb{doi}
+    \verb 10.2753/MER1052-8008230204
+    \endverb
+    \field{issn}{1052-8008}
+    \field{note}{Publisher: Routledge \_eprint: https://doi.org/10.2753/{MER}1052-8008230204}
+    \field{number}{2}
+    \field{pages}{151\bibrangedash 162}
+    \field{shorttitle}{What Ratemyprofessors.com Reveals About How and Why Students Evaluate Their Professors}
+    \field{title}{What Ratemyprofessors.com Reveals About How and Why Students Evaluate Their Professors: A Glimpse Into the Student Mind-Set}
+    \verb{url}
+    \verb https://doi.org/10.2753/MER1052-8008230204
+    \endverb
+    \field{volume}{23}
+    \verb{file}
+    \verb hartman2013.pdf:C\:\\Users\\Will\\OneDrive - Northern Kentucky Univer
+    \verb sity\\NKU\\G. Fall 2023\\HNR 497\\papers\\hartman2013.pdf:application
+    \verb /pdf
+    \endverb
+    \field{journaltitle}{Marketing Education Review}
+    \field{day}{01}
+    \field{month}{07}
+    \field{year}{2013}
+    \field{urlday}{22}
+    \field{urlmonth}{09}
     \field{urlyear}{2023}
   \endentry
 
@@ -497,6 +747,91 @@
     \field{year}{2017}
     \field{urlday}{21}
     \field{urlmonth}{10}
+    \field{urlyear}{2023}
+  \endentry
+
+  \entry{reid_role_2010}{article}{}
+    \name{author}{1}{}{%
+      {{hash=RLD}{%
+         family={Reid},
+         familyi={R\bibinitperiod},
+         given={Landon\bibnamedelima D.},
+         giveni={L\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+    }
+    \keyw{College Students, College Teachers, Evaluation, Racial and Ethnic Attitudes, Sex Role Attitudes, Teacher Effectiveness Evaluation, Teaching, Websites}
+    \strng{namehash}{RLD1}
+    \strng{fullhash}{RLD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelyear}{2010}
+    \field{labeldatesource}{}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \field{abstract}{%
+    The present study examined whether student evaluations of college teaching ({SETs}) reflected a bias predicated on the perceived race and gender of the instructor. Using anonymous, peer-generated evaluations of teaching obtained from {RateMyProfessors}.com, the present study examined {SETs} from 3,079 White; 142 Black; 238 Asian; 130 Latino; and 128 Other race faculty at the 25 highest ranked liberal arts colleges. Results showed that racial minority faculty, particularly Blacks and Asians, were evaluated more negatively than White faculty in terms of overall quality, helpfulness, and clarity, but were rated higher on easiness. A two-stage cluster analysis demonstrated that the very best instructors were likely to be White, whereas the very worst were more likely to be Black or Asian. Few effects of gender were observed, but several interactions emerged showing that Black male faculty were rated more negatively than other faculty. The results of the present study are consistent with the negative racial stereotypes of racial minorities and have implications for the tenure and promotion of racial minority faculty. ({PsycInfo} Database Record (c) 2022 {APA}, all rights reserved)%
+    }
+    \verb{doi}
+    \verb 10.1037/a0019865
+    \endverb
+    \field{issn}{1938-8934}
+    \field{note}{Place: {US} Publisher: Educational Publishing Foundation}
+    \field{number}{3}
+    \field{pages}{137\bibrangedash 152}
+    \field{title}{The role of perceived race and gender in the evaluation of college teaching on {RateMyProfessors}.Com}
+    \field{volume}{3}
+    \verb{file}
+    \verb Snapshot:C\:\\Users\\Will\\Zotero\\storage\\PA9S8K4D\\2010-18201-001.
+    \verb html:text/html
+    \endverb
+    \field{journaltitle}{Journal of Diversity in Higher Education}
+    \field{year}{2010}
+  \endentry
+
+  \entry{rosen_correlations_2018}{article}{}
+    \name{author}{1}{}{%
+      {{hash=RAS}{%
+         family={Rosen},
+         familyi={R\bibinitperiod},
+         given={Andrew\bibnamedelima S.},
+         giveni={A\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+    }
+    \keyw{gender bias, online evaluations, {RateMyProfessors}, rating correlations, Student evaluations of teaching}
+    \strng{namehash}{RAS1}
+    \strng{fullhash}{RAS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{shorttitle}
+    \field{labelyear}{2018}
+    \field{labeldatesource}{}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \field{abstract}{%
+    Student evaluations of teaching are widely adopted across academic institutions, but there are many underlying trends and biases that can influence their interpretation. Publicly accessible web-based student evaluations of teaching are of particular relevance, due to their widespread use by students in the course selection process and the quantity of data available for analysis. In this study, data from the most popular of these websites, {RateMyProfessors}.com, is analysed for correlations between measures of instruction quality, easiness, physical attractiveness, discipline and gender. This study of 7,882,980 {RateMyProfessors} ratings (from 190,006 {US} professors with at least 20 student ratings) provides further insight into student perceptions of academic instruction and possible variables in student evaluations. Positive correlations were observed between ratings of instruction quality and easiness, as well as between instruction quality and attractiveness. On average, professors in science and engineering disciplines have lower ratings than in the humanities and arts. When looking at {RateMyProfessors} as a whole, the effect of a professor’s gender on rating criteria is small but statistically significant. When analysing the data as a function of discipline, however, the effects of gender are significantly more pronounced, albeit more complex. The potential implications are discussed.%
+    }
+    \verb{doi}
+    \verb 10.1080/02602938.2016.1276155
+    \endverb
+    \field{issn}{0260-2938}
+    \field{note}{Publisher: Routledge \_eprint: https://doi.org/10.1080/02602938.2016.1276155}
+    \field{number}{1}
+    \field{pages}{31\bibrangedash 44}
+    \field{shorttitle}{Correlations, trends and potential biases among publicly accessible web-based student evaluations of teaching}
+    \field{title}{Correlations, trends and potential biases among publicly accessible web-based student evaluations of teaching: a large-scale study of {RateMyProfessors}.com data}
+    \verb{url}
+    \verb https://doi.org/10.1080/02602938.2016.1276155
+    \endverb
+    \field{volume}{43}
+    \verb{file}
+    \verb rosen2017.pdf:C\:\\Users\\Will\\OneDrive - Northern Kentucky Universi
+    \verb ty\\NKU\\G. Fall 2023\\HNR 497\\papers\\rosen2017.pdf:application/pdf
+    \endverb
+    \field{journaltitle}{Assessment \& Evaluation in Higher Education}
+    \field{day}{02}
+    \field{month}{01}
+    \field{year}{2018}
+    \field{urlday}{22}
+    \field{urlmonth}{09}
     \field{urlyear}{2023}
   \endentry
 

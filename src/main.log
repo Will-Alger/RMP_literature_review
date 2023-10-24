@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.21)  21 OCT 2023 13:37
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.21)  23 OCT 2023 19:59
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -978,7 +978,7 @@ Class apa7 Warning: Abstract not defined.
 Class apa7 Info: Keywords not defined on input line 19.
 [1{c:/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}
 
-] [2] [3] [4] [5] [6] [7] [8]
+] [2] [3] [4] [5] [6] [7] [8] [9]
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/lmr/m/sc/12'.
 (microtype)             Ignoring protrusion settings for this character.
@@ -1012,36 +1012,36 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <8> on input line 93.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <6> on input line 93.
- [9
+ [10
 
-]
+] [11]
 LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 93.
  (c:/texlive/2023/texmf-dist/tex/latex/lm/ts1lmr.fd
 File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
-) AED endfloat: Processing end Figures and Tables [10{c:/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}] (./main.aux)
+) [12{c:/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}] AED endfloat: Processing end Figures and Tables [13] (./main.aux)
  ***********
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-08-29>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 6BCC52571743F48BD99992DBD81484D2;1982.
+(rerunfilecheck)             Checksum: A144B7A5EDDF2CB8F7EF1C4362C41271;1982.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 33485 strings out of 474928
- 634543 string characters out of 5763562
+ 33576 strings out of 474928
+ 637110 string characters out of 5763562
  1929785 words of memory out of 5000000
- 54443 multiletter control sequences out of 15000+600000
- 597300 words of font info for 99 fonts, out of 8000000 for 9000
+ 54514 multiletter control sequences out of 15000+600000
+ 597831 words of font info for 104 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  99i,11n,103p,1915b,1735s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2023/texmf-dist/fonts/type1/public/lm/lmbx12.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/lm/lmcsc10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr12.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/lm/lmri12.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/lm/lmtt12.pfb>
-Output written on main.pdf (10 pages, 153759 bytes).
+Output written on main.pdf (13 pages, 162127 bytes).
 PDF statistics:
- 175 PDF objects out of 1000 (max. 8388607)
- 150 compressed objects within 2 object streams
- 33 named destinations out of 1000 (max. 500000)
+ 219 PDF objects out of 1000 (max. 8388607)
+ 191 compressed objects within 2 object streams
+ 43 named destinations out of 1000 (max. 500000)
  23133 words of extra memory for PDF output out of 24883 (max. 10000000)
 
