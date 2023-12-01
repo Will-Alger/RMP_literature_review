@@ -26,6 +26,8 @@ INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/base/article.cls
+INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/base/article.cls
+INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/base/size12.clo
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/base/size12.clo
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/base/size12.clo
@@ -775,19 +777,6 @@ INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
-INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/endfloat/endfloat.sty
-INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/endfloat/endfloat.sty
-INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/endfloat/endfloat.sty
-INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/endfloat/endfloat.sty
-INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/endfloat/endfloat.sty
-INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/endfloat/endfloat.sty
-INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/endfloat/endfloat.sty
-INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/endfloat/endfloat.sty
-INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/endfloat/endfloat.sty
-INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/endfloat/endfloat.sty
-INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/endfloat/endfloat.sty
-INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/graphics/keyval.sty
-INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/base/inputenc.sty
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/base/inputenc.sty
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/base/inputenc.sty
@@ -1042,6 +1031,8 @@ INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 INPUT /usr/local/texlive/2023/texmf-dist/tex/latex/microtype/mt-cmr.cfg
+INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/lm/ec-lmr17.tfm
+INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/lm/ec-lmr17.tfm
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/tfm/public/lm/ec-lmbx12.tfm
 INPUT /usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc
@@ -1101,5 +1092,6 @@ OUTPUT main.run.xml
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmbx12.pfb
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmcsc10.pfb
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr12.pfb
+INPUT /usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmr17.pfb
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmri12.pfb
 INPUT /usr/local/texlive/2023/texmf-dist/fonts/type1/public/lm/lmtt12.pfb
